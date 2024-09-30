@@ -1,0 +1,24 @@
+@font-face {
+    font-family: gango;
+    src: url(../assets/Font/gango-regularwide.otf);
+}
+@font-face {
+    font-family: sans;
+    src: url(../assets/Font/GeneralSans-Medium.otf);
+}
+@font-face {
+    font-family: mango;
+    src: url(../assets/Font/MangoGrotesque-Regular.ttf);
+}
+
+.gango{
+    font-family: gango;
+}
+
+.sans{
+    font-family: sana;
+}
+
+.mango{
+    font-family: mango;
+}
